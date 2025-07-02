@@ -1,7 +1,7 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Sakshi Tangar</h1>
 <h1 align="center">Currently Persuing B.Tech(CS)</h1>
-<h3 align="center">A passionate Web Developer and Python Programmer</h3>
+<h3 align="center">A passionate Web Developer and Java Programmer</h3>
 
 <!-- - 🔭 I’m currently working on  -->
 
